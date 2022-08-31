@@ -1,2 +1,2 @@
 # todo-list
-first-project
+my first-project
